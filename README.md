@@ -90,10 +90,5 @@ WHERE id = (SELECT livro_id FROM emprestimos WHERE id = 1);</code></pre>
     <h2>📊 Diagrama do Banco de Dados</h2>
     <p>Consulte o <a href="docs/diagrama.png">diagrama ER interativo</a> para melhor entendimento.</p>
   </section>
-
-  <footer>
-    <h2>📝 Licença</h2>
-    <p>Projeto sob licença MIT. Veja o arquivo <a href="#">LICENSE</a> para mais detalhes.</p>
-  </footer>
 </body>
 </html>
